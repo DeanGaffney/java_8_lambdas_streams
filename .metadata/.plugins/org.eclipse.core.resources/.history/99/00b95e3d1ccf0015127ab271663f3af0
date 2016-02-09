@@ -1,0 +1,17 @@
+import java.util.stream.Stream;
+
+
+public class test {
+	public static void main(String... args){
+		
+		Stream<String> names = Stream.of("Johnny","John","Anna","John","Sue");
+				
+				/*names.filter((String name) -> {return name.startsWith("J");})
+						.distinct()
+						.map( (String name) -> {return name.toUpperCase();}))
+						.forEach( (String name) -> {System.out.println(name);}));*/
+				
+				
+				)
+	}
+}
